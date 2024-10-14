@@ -12,8 +12,8 @@ The `UInt` operations are
 based on the JavaScript `x >>> 0` trick, analogous to how
 PureScript’s `Int` is based on the JavaScript `x | 0` trick.
 
-* [MDN — operator unsigned right shift](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Unsigned_right_shift)
-* [Stack Overflow — the JavaScript `x >>> 0` trick](https://stackoverflow.com/questions/1822350/what-is-the-javascript-operator-and-how-do-you-use-it)
+- [MDN — operator unsigned right shift](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Unsigned_right_shift)
+- [Stack Overflow — the JavaScript `x >>> 0` trick](https://stackoverflow.com/questions/1822350/what-is-the-javascript-operator-and-how-do-you-use-it)
 
 ## Installation
 
